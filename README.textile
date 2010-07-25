@@ -1,6 +1,6 @@
 Hi Locomotive fans !
 
-We moved our repository to a better sunny train station: http://github.com/locomotivecms/engine
+We moved our repository to a better sunny train station: "http://github.com/locomotivecms/engine":http://github.com/locomotivecms/engine
 Thanks
 
  Did
